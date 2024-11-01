@@ -11,7 +11,7 @@ def test():
 			time.sleep(6)
 
 for i in range(10):
-	Thread(target=test).start()
+	Thread(target=test, name=f"thr-{i}").start()
 ```
 ```bash
 thr-0

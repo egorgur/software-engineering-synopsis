@@ -2,7 +2,7 @@
 
 ---
 
-Web framework
+Batteries-included Web framework for general usage
 
 
 

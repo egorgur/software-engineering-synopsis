@@ -1,6 +1,7 @@
 .idea
 *.log
 .obsidian/*
+.obsidian
 /.vevn
 .vevn/*
 

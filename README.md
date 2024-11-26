@@ -2,7 +2,7 @@
 
 ## Software engineering knowledge
 
-The knowledge about programming I gathered.
+> The knowledge about programming that I have gathered.
 
 
 
